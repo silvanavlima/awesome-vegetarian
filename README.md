@@ -34,4 +34,4 @@
 
 ## Contribua
 
-Contribuições são bem-vindas! Leia as [diretrizes de contribuição](contribuir.md) primeiro.
+Contribuições são bem-vindas! Leia as [diretrizes de contribuição](https://github.com/silvanavlima/awesome-vegetarian/blob/main/contributing.md) primeiro.
