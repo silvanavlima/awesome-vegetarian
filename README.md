@@ -32,6 +32,6 @@
 | --------------- | ---------------------------------------------------------------- |
 | --------------- | ---------------------------------------------------------------- |
 
-## Contribute
+## Contribua
 
 Contribuições são bem-vindas! Leia as [diretrizes de contribuição](contribuir.md) primeiro.
