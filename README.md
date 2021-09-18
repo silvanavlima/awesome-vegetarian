@@ -1,6 +1,6 @@
 # Awesome Vegetarian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Lista **incrível** para apreciadores de **comidas e produtos Vegetarianos**.
+> Lista **incrível** para apreciadores de **comidas Vegetarianas**.
 > Porque a vida é muito curta para **_comidas mais ou menos_**.
 
 ## Conteúdos
