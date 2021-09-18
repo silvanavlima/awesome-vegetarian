@@ -15,7 +15,7 @@
 | 🌱 🌱 | Somente Vegetariano Estrito     |
 | 🌱    | Com opção Ovo-lacto-vegetariano |
 
-#### Locais para comer.
+#### Lugares para conhecer e desfrutar de refeições incríveis.
 
 | Nome            | Link                                                             | Localização        | Tipo  | Especialidade |
 | --------------- | ---------------------------------------------------------------- | ------------------ | ----- | ------------- |
